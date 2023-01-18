@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>css on risotto demo</title>
+    <title>css on 网站名</title>
     <link>https://ouczhangzheng.github.io/tags/css/</link>
-    <description>Recent content in css on risotto demo</description>
+    <description>Recent content in css on 网站名</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2021–2022 [Joe Roe](https://joeroe.io) &amp; [risotto contributors](https://github.com/joeroe/risotto/graphs/contributors).</copyright>
